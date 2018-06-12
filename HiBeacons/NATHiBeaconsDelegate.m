@@ -32,7 +32,7 @@
 {
     return YES;
 }
-
+//nnnnn
 - (void)applicationWillResignActive:(UIApplication *)application
 {
 }
